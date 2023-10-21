@@ -10,7 +10,7 @@ repositories {
 }
 
 dependencies {
-    implementation("de.sfuhrm:openssl4j:0.4.2")
+    implementation("de.sfuhrm:openssl4j:0.5.0")
     testImplementation(kotlin("test"))
 }
 
